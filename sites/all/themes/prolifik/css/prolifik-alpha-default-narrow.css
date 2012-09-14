@@ -1,3 +1,5 @@
+/* @override http://lts.loc/sites/all/themes/omega/alpha/css/grid/alpha_default/narrow/alpha-default-narrow-24.css?mackun */
+
 /* This file will hold styles that are loaded using the same media query as the narrow grid. */
 
 .logo-img {
@@ -24,4 +26,9 @@
   top: 25px;
   width: 300px;
   z-index: 1;
+}
+
+
+#region-menu nav > ul.menu > li {
+	float: left;
 }

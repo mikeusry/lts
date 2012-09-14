@@ -1,11 +1,18 @@
-/* @override 
-	http://shs.loc/sites/all/themes/prolifik/css/prolifik-base.css?m67bl9
-	http://zprobase.loc/sites/all/themes/prolifik/css/prolifik-base.css?m7rzjd
-*/
+/* @override http://lts.loc/sites/all/themes/prolifik/css/prolifik-base.css?mackun */
 
 /* This file will hold the main styles for your website. */
 body {
-	background-color: red;
+	background: rgb(255,255,255); /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPHJhZGlhbEdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNzUlIj4KICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZTZlNmU2IiBzdG9wLW9wYWNpdHk9IjEiLz4KICA8L3JhZGlhbEdyYWRpZW50PgogIDxyZWN0IHg9Ii01MCIgeT0iLTUwIiB3aWR0aD0iMTAxIiBoZWlnaHQ9IjEwMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-radial-gradient(center, ellipse cover,  rgba(255,255,255,1) 0%, rgba(230,230,230,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(255,255,255,1)), color-stop(100%,rgba(230,230,230,1))); /* Chrome,Safari4+ */
+background: -webkit-radial-gradient(center, ellipse cover,  rgba(255,255,255,1) 0%,rgba(230,230,230,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-radial-gradient(center, ellipse cover,  rgba(255,255,255,1) 0%,rgba(230,230,230,1) 100%); /* Opera 12+ */
+background: -ms-radial-gradient(center, ellipse cover,  rgba(255,255,255,1) 0%,rgba(230,230,230,1) 100%); /* IE10+ */
+background: radial-gradient(ellipse at center,  rgba(255,255,255,1) 0%,rgba(230,230,230,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e6e6e6',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
+
 }
 
 
@@ -14,7 +21,7 @@ a, a:link {
   text-decoration: none;
 }
 a, a:link, a:visited, a:active {
-  color: #AD3B43;
+  color: #00698f;
 }
 a:hover {
   text-decoration: underline;
@@ -144,9 +151,4 @@ ul.quicktabs-tabs li a {
 
 
 /* @end */
-
-#region-menu nav.navigation ul.menu li.leaf {
-  float: left;
-  display: block;
-}
 

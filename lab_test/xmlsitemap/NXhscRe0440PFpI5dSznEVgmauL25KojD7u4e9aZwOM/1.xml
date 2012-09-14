@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://lts.loc/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://lts.loc/content/front-page-long-scroll</loc><lastmod>2012-07-26T17:50Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://lts.loc/chlamydia-test</loc><lastmod>2012-09-14T17:33Z</lastmod><changefreq>hourly</changefreq><priority>0.7</priority></url>
+<url><loc>http://lts.loc/simple-std-panel</loc><lastmod>2012-09-14T18:44Z</lastmod><changefreq>hourly</changefreq></url>
+<url><loc>http://lts.loc/herpes-simplex-virus-type-2-glycoprotein-g-specific-antibody</loc><lastmod>2012-09-14T18:42Z</lastmod><changefreq>hourly</changefreq><priority>0.7</priority></url>
+<url><loc>http://lts.loc/hiv-102-antibodies</loc><lastmod>2012-09-14T18:43Z</lastmod><changefreq>hourly</changefreq><priority>0.7</priority></url>
+<url><loc>http://lts.loc/chlamydia-gonorrhea</loc><lastmod>2012-09-14T18:56Z</lastmod><changefreq>hourly</changefreq></url>
+<url><loc>http://lts.loc/complete-std-panel</loc><lastmod>2012-09-14T18:57Z</lastmod><changefreq>hourly</changefreq></url>
+<url><loc>http://lts.loc/std-panel-recent-exposure</loc><lastmod>2012-09-14T19:00Z</lastmod><changefreq>hourly</changefreq></url>
+<url><loc>http://lts.loc/herpes-culture</loc><lastmod>2012-09-14T19:00Z</lastmod><changefreq>hourly</changefreq><priority>0.7</priority></url>
+<url><loc>http://lts.loc/antinuclear-antibodies-ana</loc><lastmod>2012-09-14T19:02Z</lastmod><changefreq>hourly</changefreq><priority>0.7</priority></url>
+<url><loc>http://lts.loc/b12-folate-serum</loc><lastmod>2012-09-14T19:03Z</lastmod><changefreq>hourly</changefreq><priority>0.7</priority></url>
+<url><loc>http://lts.loc/content/contact-us</loc><lastmod>2012-07-26T16:51Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://lts.loc/thank-you</loc><lastmod>2012-07-26T16:54Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>http://lts.loc/syphilis</loc><lastmod>2012-09-14T17:27Z</lastmod><changefreq>hourly</changefreq><priority>0.7</priority></url>
+<url><loc>http://lts.loc/hiv</loc><lastmod>2012-09-14T17:28Z</lastmod><changefreq>hourly</changefreq><priority>0.7</priority></url>
+<url><loc>http://lts.loc/hepatitis-b-e-antigen</loc><lastmod>2012-09-14T17:29Z</lastmod><changefreq>hourly</changefreq><priority>0.7</priority></url>
+<url><loc>http://lts.loc/hepatitis</loc><lastmod>2012-09-14T17:29Z</lastmod><changefreq>hourly</changefreq><priority>0.7</priority></url>
+<url><loc>http://lts.loc/hepatitis-b-core-antibody-total</loc><lastmod>2012-09-14T17:30Z</lastmod><changefreq>hourly</changefreq><priority>0.7</priority></url>
+<url><loc>http://lts.loc/gonorrhea-test</loc><lastmod>2012-09-14T17:32Z</lastmod><changefreq>hourly</changefreq><priority>0.7</priority></url>
+<url><loc>http://lts.loc/lab-tests/blood-testing</loc></url>
+<url><loc>http://lts.loc/lab-tests/drug-alcohol</loc></url>
+<url><loc>http://lts.loc/lab-tests/dna</loc></url>
+<url><loc>http://lts.loc/lab-tests/std</loc></url>
+<url><loc>http://lts.loc/lab-tests/titer</loc></url>
+</urlset>
