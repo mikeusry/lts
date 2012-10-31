@@ -1,4 +1,5 @@
-/* @override http://lts.loc/sites/all/themes/omega/alpha/css/grid/alpha_default/narrow/alpha-default-narrow-24.css?mackun */
+/* @override 
+	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-alpha-default-narrow.css?mcb30c */
 
 /* This file will hold styles that are loaded using the same media query as the narrow grid. */
 
@@ -8,8 +9,7 @@
 }
 
 /* User */
-#region-user-first,
-#region-user-second {
+#region-user-first {
   margin: 0;
   position: absolute;
   right: 20px;
@@ -17,18 +17,39 @@
   width: 50%;
 }
 
+#region-user-second {
+	position: absolute;
+	right: 50px;
+	top: 119px;
+}
+
 /* Search Form */
 #block-search-form {
-  margin: 0;
   position: absolute;
-  right: 0;
   text-align: right;
-  top: 25px;
+  top: -10px;
   width: 300px;
   z-index: 1;
+left: 20px;
 }
 
 
+#block-block-8 {
+	text-align: center;
+	float: right;
+	width: 300px;
+	font-size: 1.70em;
+	line-height: 1.1em;
+}
+
 #region-menu nav > ul.menu > li {
 	float: left;
+}
+
+div.social {
+	float: right;
+}
+
+#zone-branding {min-height: 180px;
+	line-height: .8em;
 }

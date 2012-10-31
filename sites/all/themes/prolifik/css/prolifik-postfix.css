@@ -1,3 +1,5 @@
+/* @override http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-postfix.css?map62d */
+
 /* Preface */
 #section-content .zone-wrapper #zone-preface .region-inner {
   padding: 20px;
@@ -9,6 +11,18 @@
   color: #414141;
 }
 /* Hide on interior pages */
-.not-front #zone-preface-wrapper {
-  display: none;
+#section-content #region-postfix-first div.region-inner.region-postfix-first-inner {
+	padding: 0;
+}
+
+#block-block-14 {
+	text-align: center;
+}
+#block-block-14 img {
+	width: 100%;height: auto;
+}
+#block-block-14 div.bottomtag {
+	color: white;
+	position: relative;
+	bottom: 20px;
 }

@@ -1,0 +1,2 @@
+@media all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape){#logo{width:350px;}#block-search-form{position:absolute;text-align:right;top:-10px;width:300px;z-index:1;left:20px;}div.step{clear:both;margin-bottom:10px;}
+}

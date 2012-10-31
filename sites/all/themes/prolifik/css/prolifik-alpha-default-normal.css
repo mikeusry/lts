@@ -1,17 +1,24 @@
-/* @override http://shs.loc/sites/all/themes/prolifik/css/prolifik-alpha-default-normal.css?m67bl9 */
+/* @override 
+	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-alpha-default-normal.css?mcg1mh */
 
 /* This file will hold styles that are loaded using the same media query as the normal grid. */
 
 #logo {
-  width: 250px;
+  width: 350px;
 }
 
 /* Search Form */
 #block-search-form {
   position: absolute;
-  right: 0;
   text-align: right;
-  top: 35px;
+  top: -10px;
   width: 300px;
   z-index: 1;
+	left: -46px;
+}
+
+
+div.step {
+	clear: both;
+	margin-bottom: 10px;
 }

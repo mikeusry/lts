@@ -1,13 +1,40 @@
-/* @override http://shs.loc/sites/all/themes/prolifik/css/prolifik-footer.css?m67bl9 */
+/* @override 
+	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-footer.css?mcb30c
+*/
+
+div.center-header {
+text-align: center;
+	color: #404040;
+	font-weight: bold;
+	text-shadow: 0 1px 2px #eae8e8;
+}
+
+#block-block-2 img {
+	border: 3px solid #ccd1d7;
+}
+
+#block-block-2 div.content p {
+	text-align: center;
+}
+span.association-left, span.association-right {
+	margin-right: 40px;
+	font-size: 1.25em;
+}
+
+#block-webform-client-block-2 {
+	float: right;
+}
+
 
 /* Footer */
+
+
 #zone-footer-wrapper {
-  z-index: 1;
-	padding-top: 10px;
-	-webkit-box-shadow: #666 0px 0px 10px;
+z-index: 1;
+padding-top: 10px;
+-webkit-box-shadow: #666 0px 0px 10px;
 -moz-box-shadow: #666 0px 0px 10px;
 box-shadow: #666 0px 0px 10px;
-background-color: #005094;
 }
 #zone-footer-wrapper a,
 #zone-footer-wrapper a:link

@@ -1,8 +1,11 @@
-/* @override 
-	http://lts.loc/sites/all/themes/prolifik/css/prolifik-menu.css?mackun
-*/
-
 /* Menu */
+
+/* @group Social */
+div.social {text-align: center;
+}
+
+
+/* @end */
 
 #zone-menu {
   min-height: 30px;
