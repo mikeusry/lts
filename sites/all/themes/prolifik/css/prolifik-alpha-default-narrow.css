@@ -1,5 +1,6 @@
 /* @override 
-	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-alpha-default-narrow.css?mcb30c */
+	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-alpha-default-narrow.css?mcb30c
+	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-alpha-default-narrow.css?mcr8eq */
 
 /* This file will hold styles that are loaded using the same media query as the narrow grid. */
 
@@ -52,4 +53,14 @@ div.social {
 
 #zone-branding {min-height: 180px;
 	line-height: .8em;
+}
+
+div.map {width: 60%;margin-right: 10px;
+	float: left;
+}
+
+div.rightthirty {
+	width: 38%;
+	overflow: hidden;
+	text-align: center;
 }

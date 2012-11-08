@@ -7,8 +7,6 @@ base theme = 'omega'
 
 ; Scripts
 scripts[] = 'js/global.js'
-scripts[] = 'js/SpryAccordion.js'
-scripts[] = 'js/SpryCollapsiblePanel.js'
 
 ; Styles
 css[prolifik-base.css][name] = 'Prolifik: Base'
@@ -61,13 +59,6 @@ css[prolifik-footer.css][description] = 'This file contains the footer stylings 
 css[prolifik-footer.css][options][weight] = '26'
 settings[alpha_css][prolifik-footer.css] = 'prolifik-footer.css'
 
-css[SpryAccordion.css][name] = 'SpryAccordion'
-css[prolifik-footer.css][description] = 'This file contains the accordion stylings for the site.'
-css[prolifik-footer.css][options][weight] = '27'
-
-css[SpryCollapsiblePanel.css][name] = 'SpryPanels'
-css[prolifik-footer.css][description] = 'This file contains the spry panel stylings for the site.'
-css[prolifik-footer.css][options][weight] = '28'
 
 ; Zones
 zones[branding] = 'Branding'

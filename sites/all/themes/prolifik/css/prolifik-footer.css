@@ -1,5 +1,7 @@
 /* @override 
 	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-footer.css?mcb30c
+	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-footer.css?mcwqsz
+	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-footer.css?md1a1w
 */
 
 div.center-header {
@@ -7,10 +9,12 @@ text-align: center;
 	color: #404040;
 	font-weight: bold;
 	text-shadow: 0 1px 2px #eae8e8;
+	margin-top: 20px;
 }
 
 #block-block-2 img {
 	border: 3px solid #ccd1d7;
+	max-height: 50px;
 }
 
 #block-block-2 div.content p {

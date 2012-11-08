@@ -1,5 +1,8 @@
 /* @override http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-base.css?mc36q5
-	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-base.css?mcb30c */
+	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-base.css?mcb30c
+	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-base.css?mcr8eq
+	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-base.css?mcwqsz
+	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-base.css?md1a34 */
 
 /* This file will hold the main styles for your website. */
 
@@ -236,7 +239,17 @@ div.cta-sidebar-second a {
 div.tagline {
 	text-align: center;
 	color: #4D4D4D;
-	font-size: 3.5em;
+	font-size: 3em;
+}
+
+div.views-field.views-field-view-node {
+	font-style: italic;
+	margin-left: 30px;
+}
+
+#block-views-related-lab-tests-block .views-field-title {
+	font-size: 1.5em;
+	font-weight: bold;
 }
 
 #block-block-9 {
@@ -364,4 +377,20 @@ div.view-related-lab-tests div.views-row a.views-more-link {
 
 #block-current-search-standard {
 	display: none;
+}
+
+div.questions {
+	margin-top: 20px;
+}
+
+div.bubble .see {
+	font-size: 25px;
+}
+
+div.bubble {
+	text-align: center;
+	background: url(../images/bubble.png) no-repeat;
+	color: #ffffff;
+	padding: 15px 15px 73px 4px;
+	font-size: 17px;
 }
