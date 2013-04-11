@@ -1,32 +1,31 @@
 /* @override 
-	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-footer.css?mcb30c
-	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-footer.css?mcwqsz
-	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-footer.css?md1a1w
-*/
+	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-footer.css?md807u
+	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-footer.css?mdh7x8 */
 
-div.center-header {
-text-align: center;
-	color: #404040;
-	font-weight: bold;
+div.block-header {
+	color: #000000;
 	text-shadow: 0 1px 2px #eae8e8;
 	margin-top: 20px;
+	font: bold 2em Bitter;
 }
 
 #block-block-2 img {
 	border: 3px solid #ccd1d7;
-	max-height: 50px;
+	max-height: 40px;
+	margin: 10px;
 }
 
 #block-block-2 div.content p {
 	text-align: center;
 }
-span.association-left, span.association-right {
+span.association {
 	margin-right: 40px;
 	font-size: 1.25em;
 }
 
 #block-webform-client-block-2 {
-	float: right;
+	padding-right: 10px;
+	padding-left: 15px;
 }
 
 
@@ -58,12 +57,19 @@ box-shadow: #666 0px 0px 10px;
   margin: 0;
   padding: 0;
   color: white;
+  font-size: 18px;
 }
+#block-block-1 div.address {
+	color: white;
+	font-size: 18px;
+}
+
 #region-footer-first,
 #region-footer-second {
   margin: 0;
   padding-bottom: 20px;
   padding-top: 10px;
+  overflow: hidden;
 }
 #region-footer-bottom {
   margin: 0;

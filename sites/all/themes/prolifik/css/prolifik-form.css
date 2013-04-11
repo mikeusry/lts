@@ -1,3 +1,6 @@
+/* @override 
+	http://lts.lightyourmusic.com/sites/all/themes/prolifik/css/prolifik-form.css?md807u */
+
 /* Navin: Form */
 textarea, select, input[type="date"], input[type="datetime"],
 input[type="datetime-local"], input[type="email"], input[type="month"],
@@ -6,7 +9,7 @@ input[type="text"], input[type="time"], input[type="url"], input[type="week"] {
   background: #fcfcfc;
 }
 input:focus, input:active, select:focus, select:active, textarea:focus, textarea:active {
-  background: #fff;
+  background: #fff; max-width: 100%;
 }
 button, textarea, select, input[type="date"], input[type="datetime"],
 input[type="datetime-local"], input[type="email"], input[type="month"],

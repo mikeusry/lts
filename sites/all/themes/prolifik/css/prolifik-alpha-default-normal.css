@@ -22,3 +22,13 @@ div.step {
 	clear: both;
 	margin-bottom: 10px;
 }
+
+#block-views-authorship-block {width: 50%;
+}
+
+#block-block-15 {
+	border: thin solid gray;
+	text-align: center;
+	margin-bottom: 30px;
+	padding: 20px;border-radius: 15px;
+}
